@@ -19,6 +19,8 @@ Local deployment
 
 ## How To Contribute
 
+Please fork this repository and issue pull request
+
 Sample website with plenty of files for demos
 
 ### Copyright
